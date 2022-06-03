@@ -1,0 +1,14 @@
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.exe
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.deps.json
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.runtimeconfig.json
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.runtimeconfig.dev.json
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.dll
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.pdb
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.csproj.AssemblyReference.cache
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.AssemblyInfoInputs.cache
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.AssemblyInfo.cs
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.dll
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.pdb
+C:\Users\ernes\Desktop\Repos\csharp27\Giraffe\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.genruntimeconfig.cache
